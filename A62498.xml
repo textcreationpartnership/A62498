@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three queries, and answers to them</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62498</idno>
+            <idno type="STC">Wing T1114</idno>
+            <idno type="STC">ESTC R19969</idno>
+            <idno type="EEBO-CITATION">11766917</idno>
+            <idno type="OCLC">ocm 11766917</idno>
+            <idno type="VID">48784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 553:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three queries, and answers to them</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Concerning the declaration for liberty of conscience of James II, April 4, 1687.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Liberty of conscience --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48784:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:48784:1"/>
+            <!-- PDF PAGE 25 -->
+            <head>THREE QUERIES, AND ANSWERS to them.</head>
+            <div n="1" type="part">
+               <head>Firſt Query,</head>
+               <p>WHether the matter of the late Declaration, be <hi>Illegal?</hi>
+               </p>
+               <p>Firſt <label>Anſwer,</label> It is alltogether Illegal: The Foot upon which the Declaration ſtands, being a Power not Only to diſpence in Contingent and Particular Caſes, which if the Law<g ref="char:EOLhyphen"/>givers could have fore-ſeen, Then they would have provided a<g ref="char:EOLhyphen"/>gainſt it; But the Diſpencing with all ſorts of Laws in Caſes con<g ref="char:EOLhyphen"/>trary to the very Deſign and End of making them Such a Power, is not properly a Diſpencing, but a Diſanulling Power, and is highly prejudicial to the King himſelf, becauſe it takes away that Faith and Truſt which His People repoſe in Him, when a Law is made, which They look upon as Their Security.</p>
+               <p>
+                  <hi>Secondly,</hi> It is true, Each Biſhop or Miniſter is not a capable Judge in ſuch caſes, but he is the Judge for his own private Con<g ref="char:EOLhyphen"/>ſcience, againſt which he muſt not go.</p>
+               <p>
+                  <hi>Thirdly,</hi> This Caſe is Publickly Adjudged againſt in Parliament 1672. <hi>(Secondly)</hi> The general forbearance of Addreſſes ground<g ref="char:EOLhyphen"/>ed upon the Illegality of that Diſpencing Power, ſhews this to have been the Judgment of the greateſt part of the Clergy and Others. <hi>(Thirdly)</hi> The Declaration of the preſent Judges, goes no further than ſuch a Military Caſe of Sir <hi>Edward Hayles,</hi> for it was a Particular Judgment upon that particular Caſe, and in whatſoever words it was expreſt, it never yet came Legally to the Cognizance of the Subject.</p>
+               <p>
+                  <hi>Fourthly,</hi> The Biſhops refuſing to ſend the Order and Declara<g ref="char:EOLhyphen"/>tion, the Miniſters have ſomething more than their own private Judgments to move them to refuſe to Read it.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="2" facs="tcp:48784:2"/>
+               <!-- PDF PAGE 26 -->
+               <head>Second Query.</head>
+               <p>Whether an Unlawful Matter may be Lawfully Publiſhed?</p>
+               <p>
+                  <label>Anſwer.</label> An Unlawful Matter is not to be Publiſht, if he who publiſhes it thinks the matter Unlawful. For,</p>
+               <p>
+                  <hi>Firſt,</hi> It cannot come to him, being Illegal, by any Legal Au<g ref="char:EOLhyphen"/>thority, for the King can do no Illegal Thing; and if His Officers do it, they do it not by the King's Authority: And therefore the refuſing of it is no Diſobedience, being no Illegal Refuſal.</p>
+               <p>
+                  <hi>Secondly,</hi> If then the Biſhops and Miniſters publiſh the De<g ref="char:EOLhyphen"/>claration, they do it Voluntarily as their Own Act, and conſe<g ref="char:EOLhyphen"/>quently publiſh an Illegal Thing, without Legal Authority; They are Puniſhable for it, having done what they had no Legal Au<g ref="char:EOLhyphen"/>thority to do.</p>
+            </div>
+            <div n="3" type="part">
+               <head>Third Query.</head>
+               <p>What are the ill Conſequences of Reading the Declaration?</p>
+               <p>
+                  <label>Anſwer,</label> They are many, and great, and therefore in Prudence as well as Conſcience, It Ought not to be done.</p>
+               <p>
+                  <hi>Firſt,</hi> Great Numbers will Juſtly Judge the Clergy <hi>Cowards</hi> and <hi>Hypocrites,</hi> in Publiſhing what they think Illegal, and Illegal<g ref="char:EOLhyphen"/>ly Sent to them.</p>
+               <p>
+                  <hi>Secondly,</hi> Many who have Votes for Parliament Men, will take this for the Conſent of the Publiſhers, and be ſtrengthened in the chooſing ſuch Men as ſhall be Friends, not only to the Indulgence, but to the Foundation of it, the Diſpencing Power.</p>
+               <p>
+                  <hi>Thirdly,</hi> They will have reaſon to take this for a Conſent to it, becauſe there can be no other Intention in Ordering it to be Pub<g ref="char:EOLhyphen"/>liſht, but to make the Clergy Parties to it, for it is as much known before it be Read, as it will be after the Reading of it; Therefore the making it Known, is not the Only Thing intended.</p>
+               <p>
+                  <hi>Fourthly,</hi> And ſo it will be Interpreted and Improved by thoſe that intend to make their Advantage by it, who will publiſh it in the <hi>Gazette, Publick Occurrences,</hi> and other Papers, <hi>That the Clergy hath Approv'd His Majeſty's Declaration of Liberty of Conſcience, by their Solemn Reading of it in their Churches in the time of Divine Service.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> After which they may Expect further Things may be Ordered to be Publiſhed by them, at which they muſt make a Stand, and their making a Stand when they have loſt their Repu<g ref="char:EOLhyphen"/>tation, will be of no force: It is beſt then to ſtop at firſt, Eſpe<g ref="char:EOLhyphen"/>cially conſidering the Weight of this Matter: All Our Laws and
+<pb n="3" facs="tcp:48784:2"/>
+                  <!-- PDF PAGE 26 -->the Teſt, and Our Intereſt in Them, being Concerned therein.</p>
+            </div>
+            <div type="part">
+               <div type="section">
+                  <head>Objections in General.</head>
+                  <p>It may be Objected, That there will be great Inconveniencies on the other ſide. To which it may be Anſwered,</p>
+                  <p>If the thing be Illegal, both in the Matter and the Publication, we are not to do it for fear of its inconveniencies, but to perform our Duty, and to leave the event to God, a certain Evil muſt not be done to avoid a contingent one.</p>
+               </div>
+               <div type="section">
+                  <head>Objections in Particular.</head>
+                  <p>It may be Objected (firſt). This will be Interpreted by the <hi>Papiſt</hi> as a failure in our great Principles of Loyalty. To which <hi>Three</hi> things may be Anſwered,</p>
+                  <p>Firſt, That our non Addreſſing was ſo Interpreted in Books as well as Diſcourſes, but had no effect to blaſt our Loyalty, tho the Clergy refuſed to <hi>Addreſs</hi> even in a Branch that made for themſelves, becauſe of that one Foundation on which that cauſe ſtood, with the reſt of the Diſpencing Power.</p>
+                  <p>Secondly, Loyalty being Obedience according to Law, They are the Loyal Men who act not contrary thereunto. And the beſt Friends to the Crown are thoſe which ſupport the Law.</p>
+                  <p>Thirdly, They ſtill maintain the Principle of Suffering without any Un-Chriſtian Oppoſition.</p>
+                  <p>Second Objection, It may be further Objected, That Diſſenters will conſtrue this Refuſal, as a Declaration againſt all Tenderneſs to them.</p>
+                  <p>Anſwer, To which it may be Anſwered, (firſt) That they had never ſuch aſſurances from our Churchmen of their Inclination to Tenderneſs to them as they have now received.</p>
+                  <p>Secondly, They cannot but ſee, That this Refuſal was not to hinder any favours towards them, by this Indulgence, but the Diſpencing Power, which if it takes place, They cannot but diſ<g ref="char:EOLhyphen"/>cern, That a New <hi>Magna Charta</hi> for Liberty of Conſcience will be of no validity to them, for a New Declaration may diſpence with it at pleaſure.</p>
+                  <p>Laſtly, The wiſeſt and beſt of them do look upon our Refuſal as a Teſtimony of our ſincerity to the <hi>Proteſtant Religion,</hi> and not of any diſaffection to them.</p>
+                  <p>Third objection, It may be Objected, That Suſpenſion or De<g ref="char:EOLhyphen"/>privation of the Refuſers may follow, whereby the People of our Church may be left as Sheep without a Shepherd.</p>
+                  <pb n="4" facs="tcp:48784:3"/>
+                  <!-- PDF PAGE 27 -->
+                  <p>Anſwer. Firſt, The Church and our Religion, will ſuffer leſs by the Conſcienciouſneſs of their Suſpended Miniſters, than it will by their Illegal Complyanc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in ſo great and Fundamental a Point.</p>
+                  <p>Secondly, God will provide for them, being his Cauſe for which they ſuffer.</p>
+                  <p>Thirdly, They have other Thoughts of the <hi>KING</hi>'s Clemen<g ref="char:EOLhyphen"/>cy and Juſtice, when He is informed by Men of Conſciences a<g ref="char:EOLhyphen"/>gainſt the Councels of Men of Intereſt. For how can the <hi>King</hi> (at the very time he proclaims entire Liberty of Conſcience to all, even thoſe who formerly were lookt upon his Enemies) do an open violence to the <hi>Conſciences</hi> of thoſe who have ever been acknowledged to be his Friends. When He conſiders it, He will not deny to us alone what He grants to every body elſe. This in duty we ought to conclude of, if we be miſtaken, it may ſerve to free others from more dangerous Errours.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
